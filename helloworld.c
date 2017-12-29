@@ -1,7 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
  printf("hello world boys and girls ");
- getch();
- }
+}
