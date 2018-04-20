@@ -3,6 +3,4 @@
 int main()
 {
  printf("hello world welcome to pollachi");
- 
- return 0;
- }
+  }
