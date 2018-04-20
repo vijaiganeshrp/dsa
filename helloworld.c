@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
- printf("hello world welcome to pollachi");
+ prin("hello world welcome to pollachi");
+ 
  }
