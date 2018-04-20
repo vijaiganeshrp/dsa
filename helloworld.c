@@ -2,5 +2,5 @@
 //#include<conio.h>
 int main()
 {
- printf("hello world welcome to pollachi");
+ pri("hello world welcome to pollachi");
   }
