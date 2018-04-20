@@ -1,6 +1,8 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
-{
- prin("hello world welcome to pollachi");
- 
+{int a;
+ printf("hello world welcome to pollachi");
+ scanf("%d",&a);
+ printf("%d",a);
  }
