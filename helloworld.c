@@ -5,4 +5,5 @@ int main()
  printf("hello world welcome to pollachi");
  scanf("%d",&a);
  printf("%d",a);
+ return 0;
  }
